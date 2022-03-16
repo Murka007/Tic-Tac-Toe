@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe/static/css/main.8cd6177a.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.9c90bb98.js",
+    "static/media/background1.svg": "/Tic-Tac-Toe/static/media/background1.11041459f1c883c4399b.svg",
+    "static/media/background2.svg": "/Tic-Tac-Toe/static/media/background2.560ccb5313873917054e.svg",
+    "static/media/cross1.svg": "/Tic-Tac-Toe/static/media/cross1.a1cd60e4e30a3cd8af3f1f873e7ca4f5.svg",
+    "static/media/logo.svg": "/Tic-Tac-Toe/static/media/logo.8c9d2898ed349f94fc052f7f76d424c4.svg",
+    "static/media/zero1.svg": "/Tic-Tac-Toe/static/media/zero1.889331a46ff569b20d8dbf6fa48ce36b.svg",
+    "static/media/crossborder.svg": "/Tic-Tac-Toe/static/media/crossborder.c05ff143cc20d8c4f3f6.svg",
+    "static/media/zeroborder.svg": "/Tic-Tac-Toe/static/media/zeroborder.6c8e281eeb8bdebfa383.svg",
+    "static/media/draw.svg": "/Tic-Tac-Toe/static/media/draw.57122eb5cb4f0721f8d90aea92cdb030.svg",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "main.8cd6177a.css.map": "/Tic-Tac-Toe/static/css/main.8cd6177a.css.map",
+    "main.9c90bb98.js.map": "/Tic-Tac-Toe/static/js/main.9c90bb98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cd6177a.css",
+    "static/js/main.9c90bb98.js"
+  ]
+}
