@@ -2,4 +2,4 @@
 
 Tic Tac Toe game made with React.js
 
-Live version: https://Edrickennardyan.github.io/Tic-Tac-Toe/
+Demo version: https://murka007.github.io/Tic-Tac-Toe/
